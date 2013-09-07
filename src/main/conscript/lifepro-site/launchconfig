@@ -1,0 +1,12 @@
+[app]
+  version: 1.0-SNAPSHOT
+  org: org.lifepro
+  name: lifepro-site_2.10
+  class: org.lifepro.site.boot.launch.Server
+  cross-versioned: false
+[scala]
+  version: 2.10.2
+[repositories]
+  scala-tools-releases
+  maven-central
+  katlex: http://katlex.github.com/maven2/snapshots
