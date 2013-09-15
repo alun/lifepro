@@ -10,3 +10,5 @@
   scala-tools-releases
   maven-central
   katlex: http://katlex.github.com/maven2/snapshots
+  softprops: http://dl.bintray.com/content/softprops/maven
+
