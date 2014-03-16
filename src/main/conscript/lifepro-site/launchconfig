@@ -9,6 +9,6 @@
 [repositories]
   scala-tools-releases
   maven-central
-  katlex: http://katlex.github.com/maven2/snapshots
+  katlex: http://katlex.github.com/maven2/releases
   softprops: http://dl.bintray.com/content/softprops/maven
 
